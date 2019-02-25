@@ -1,0 +1,1 @@
+https://github.com/SSQ/Coursera-UW-Machine-Learning-Clustering-Retrieval/blob/master/Week%201%20PA%201/nearest-neighbors-features-and-metrics_blank.ipynb
